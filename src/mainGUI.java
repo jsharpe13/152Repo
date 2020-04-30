@@ -39,8 +39,6 @@ public class mainGUI
 		peopleMap pm = new peopleMap();
 		password pw = new password(pm, tob2);
 		
-		testClass tc = new testClass();
-		
 		
 		JFrame frame = new JFrame("GUI");
 		JPanel Menupanel = new JPanel();
